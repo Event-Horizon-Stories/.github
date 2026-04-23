@@ -29,20 +29,6 @@ Across the organization, software is never separate from the conditions around i
 7. [`horizon_engine`](https://github.com/Event-Horizon-Stories/horizon_engine)  
    Event sourcing through The Origin Inquiry, reconstructing how the universe began from fragmentary logs.
 
-## Shared Conditions
-
-The same pressures keep returning:
-
-- distance
-- delay
-- coordination
-- recordkeeping
-- institutional memory
-- conflicting truths
-- histories that refuse to stay settled
-
-Each repository isolates one part of that pressure and lets the system harden around it.
-
 ## Civilizational Pillars
 
 - **Survival** - [`mars_colony_otp`](https://github.com/Event-Horizon-Stories/mars_colony_otp)
