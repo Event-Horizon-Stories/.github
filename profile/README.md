@@ -50,9 +50,9 @@ The chronology opens with [`mars_colony_otp`](https://github.com/Event-Horizon-S
 For direct entry by topic:
 
 - OTP: [`mars_colony_otp`](https://github.com/Event-Horizon-Stories/mars_colony_otp)
-- autonomous systems: [`helios_fleet`](https://github.com/Event-Horizon-Stories/helios_fleet)
-- PubSub and live coordination: [`signal_network`](https://github.com/Event-Horizon-Stories/signal_network)
-- durable jobs and scheduling: upcoming in [`orbital_dispatch`](https://github.com/Event-Horizon-Stories/orbital_dispatch)
+- Jido: [`helios_fleet`](https://github.com/Event-Horizon-Stories/helios_fleet)
+- PubSub: [`signal_network`](https://github.com/Event-Horizon-Stories/signal_network)
+- Oban: [`orbital_dispatch`](https://github.com/Event-Horizon-Stories/orbital_dispatch)
 - Ash: [`galactic_trade_authority`](https://github.com/Event-Horizon-Stories/galactic_trade_authority)
 - Commanded: [`wormhole_protocol`](https://github.com/Event-Horizon-Stories/wormhole_protocol)
-- event sourcing: [`horizon_engine`](https://github.com/Event-Horizon-Stories/horizon_engine)
+- Event Sourcing: [`horizon_engine`](https://github.com/Event-Horizon-Stories/horizon_engine)
