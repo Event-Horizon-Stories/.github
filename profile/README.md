@@ -43,6 +43,29 @@ The same pressures keep returning:
 
 Each repository isolates one part of that pressure and lets the system harden around it.
 
+## Civilizational Pillars
+
+- **Survival** - [`mars_colony_otp`](https://github.com/Event-Horizon-Stories/mars_colony_otp)
+ Habitats, life support, local continuity, and the hardening of a colony that first has to stay alive.
+
+- **Expansion** - [`helios_fleet`](https://github.com/Event-Horizon-Stories/helios_fleet)
+ Probes, relays, and command vessels pushing beyond immediate oversight into autonomy under distance.
+
+- **Coordination** - [`signal_network`](https://github.com/Event-Horizon-Stories/signal_network)
+ Signals, presence, and shared awareness across systems that cannot afford to fall silent.
+
+- **Execution** - [`orbital_dispatch`](https://github.com/Event-Horizon-Stories/orbital_dispatch)
+ Planned next: the work of carrying commitments through delay, retries, scheduling, and operational follow-through.
+
+- **Legitimacy** - [`galactic_trade_authority`](https://github.com/Event-Horizon-Stories/galactic_trade_authority)
+ Trade, law, ownership, dispute, and the institutions that decide what officially counts.
+
+- **History** - [`wormhole_protocol`](https://github.com/Event-Horizon-Stories/wormhole_protocol)
+ Commands, events, causality, and the struggle over what kind of past a civilization is allowed to preserve.
+
+- **Intelligence** - [`horizon_engine`](https://github.com/Event-Horizon-Stories/horizon_engine)
+ Replay, inference, and the extraction of meaning from fragmentary traces.
+
 ## Entry Points
 
 The chronology opens with [`mars_colony_otp`](https://github.com/Event-Horizon-Stories/mars_colony_otp).
