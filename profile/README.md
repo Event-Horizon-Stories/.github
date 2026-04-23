@@ -47,7 +47,7 @@ Across the organization, software is never separate from the conditions around i
  Trade, law, ownership, dispute, and the institutions that decide what officially counts.
 
 - **History** - [`wormhole_protocol`](https://github.com/Event-Horizon-Stories/wormhole_protocol)
- Commands, events, causality, and the struggle over what kind of past a civilization is allowed to preserve.
+ Commands, events, causality, and the struggle over what kind of past a civilization is allowed to defend.
 
 - **Intelligence** - [`horizon_engine`](https://github.com/Event-Horizon-Stories/horizon_engine)
  Replay, inference, and the extraction of meaning from fragmentary traces.
