@@ -12,7 +12,7 @@ Across the organization, software is never separate from the conditions around i
    OTP under colony pressure: habitats, rovers, supervision, alerts, telemetry, and distributed outposts.
 
 2. [`helios_fleet`](https://github.com/Event-Horizon-Stories/helios_fleet)  
-   Jido autonomous deep-space probes, relay skiffs, and command hulls operating under light-lag.
+   Jido-driven autonomous fleet: deep-space probes, relay skiffs, and command hulls built to operate cleanly under light-lag.
 
 3. [`signal_network`](https://github.com/Event-Horizon-Stories/signal_network)  
    PubSub, channels, presence, and network coordination across a system that does not stop speaking.
