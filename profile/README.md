@@ -18,7 +18,7 @@ Across the organization, software is never separate from the conditions around i
    PubSub, channels, presence, and network coordination across a system that does not stop speaking.
 
 4. [`orbital_dispatch`](https://github.com/Event-Horizon-Stories/orbital_dispatch)  
-   Planned next: an Oban-focused dispatch office handling retries, scheduling, and durable operational follow-through.
+   Oban-focused dispatch office handling retries, scheduling, and durable operational follow-through.
 
 5. [`galactic_trade_authority`](https://github.com/Event-Horizon-Stories/galactic_trade_authority)  
    Ash inside an interplanetary trade regime where official truth is whatever survives validation.
